@@ -1,0 +1,10 @@
+1) March got the highest sales (~10%) and highest orders (~10%)
+2) Women are more likely to buy comapred to men (~ 65%)
+3) Maximum items were Delivered (~93%)
+4) Maharashtra, Karnataka and UP are the top 3 states (~35%)
+5) Women whose ages are between 30 to 49 tend to order more (~35%)
+6) Amazon, Flipkart and Myntra are contributing max (~80%)
+7) Set category has the highest sales (~50%)
+
+Final insight to improve the sales in the store in 2023:
+Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing coupons/ads/offers available on Amazon, Flipkart and Myntra.
