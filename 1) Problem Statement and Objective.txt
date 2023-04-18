@@ -1,0 +1,12 @@
+Analyzing the pervious data is very important for business planning and to incrase the sales. So the stores sales data is given and we have to find the pattern for increasing the sales in 2023.
+
+For that we have to solve of some questions.
+The questions are given below.
+
+1) Which month got the highest sales and orders ?
+2) who purchased more- men or women in 2022 ?
+3) What are the different order status in 2022 ?
+4) List top 10 states contributing to the sales ?
+5) Relation between age and gender based on number of orders.
+6) Which channel is contributing to maximum sales ?
+7) Highest selling category.
